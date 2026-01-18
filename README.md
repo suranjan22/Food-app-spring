@@ -2,18 +2,30 @@
 ## A full-stack food ordering platform built with Spring Boot (MVC), Spring Data JPA, and JSP. Restaurants can register, manage menus, and handle orders, while users browse categorized menus, add items to cart, and place orders. Implemented JPA repositories for efficient CRUD operations, role-based modules for restaurants and users, dynamic JSP pages for menu display and order tracking, and integrated Formspree and WhatsApp APIs for real-time customer feedback.
 <img width="1697" height="853" alt="image" src="https://github.com/user-attachments/assets/54df296a-b6ec-478b-a3c1-752cb4da0f7e" />
 
-## login and registration for user 
+## Login and registration for user 
 <img width="876" height="457" alt="image" src="https://github.com/user-attachments/assets/8b12a818-fef1-46b7-96e5-b8502c513058" />
 
-## user credentials in user database 
+## User credentials in user table (MySQL Workbench) 
 <img width="823" height="158" alt="image" src="https://github.com/user-attachments/assets/665aa723-7dc7-4d8f-82fc-cb34c40fbfe5" />
 
+## landing page in user dashboard 
 <img width="1697" height="853" alt="image" src="https://github.com/user-attachments/assets/54df296a-b6ec-478b-a3c1-752cb4da0f7e" />
+
+## Restaurant login and registration 
 <img width="977" height="627" alt="image" src="https://github.com/user-attachments/assets/3ab248d6-e6d9-4c57-89b9-450ae1b41b59" />
+
+## Restaurant credentials in Restaurant table (MySQL Workbench)
 <img width="831" height="176" alt="image" src="https://github.com/user-attachments/assets/ba3480c8-0ddd-4a4f-9ce8-020c66eaf89b" />
+
+## Restaurant dashboard 
 <img width="1885" height="650" alt="image" src="https://github.com/user-attachments/assets/82d23a4a-fe8b-4468-811e-879401133076" />
+
+## Add menu in Restaurant portal 
 <img width="1127" height="855" alt="image" src="https://github.com/user-attachments/assets/7063b9db-1885-40e2-a743-5921ba189984" />
+
+## added menu in menu table (MySQL Workbench)
 <img width="997" height="173" alt="image" src="https://github.com/user-attachments/assets/8ba2afc6-c10b-4a95-9a34-44a0906b2211" />
+
 <img width="757" height="612" alt="image" src="https://github.com/user-attachments/assets/61c75b85-39db-4d1f-9d02-46d600495cdb" />
 <img width="1872" height="452" alt="image" src="https://github.com/user-attachments/assets/980e3665-e8fb-41dc-9c2a-d0a76d257c20" />
 <img width="623" height="837" alt="image" src="https://github.com/user-attachments/assets/2742a470-13b9-4280-8593-493674e8d2c0" />
