@@ -44,5 +44,10 @@
 <img width="592" height="527" alt="image" src="https://github.com/user-attachments/assets/05fadc96-cb52-47ed-8702-6485ca859f73" />
 <img width="1232" height="802" alt="image" src="https://github.com/user-attachments/assets/62bac19b-525e-4b02-999d-b3f98f5ecd84" />
 <img width="660" height="273" alt="image" src="https://github.com/user-attachments/assets/688bc814-bd96-4ff6-9f72-a5c8475615cf" />
+
+## Mail in Gmail account 
+<img width="1916" height="317" alt="image" src="https://github.com/user-attachments/assets/8736b711-72d8-4b6b-938f-fccc389c0784" />
+
+## Formspree dashboard 
 <img width="1906" height="662" alt="image" src="https://github.com/user-attachments/assets/681d416b-9f63-4348-957f-e507a8d0646e" />
-<img width="412" height="291" alt="image" src="https://github.com/user-attachments/assets/9bd222ca-db70-41f5-bcc8-44fcbbd843ae" />
+
