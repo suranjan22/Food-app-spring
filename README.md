@@ -26,7 +26,10 @@
 ## added menu in menu table (MySQL Workbench)
 <img width="997" height="173" alt="image" src="https://github.com/user-attachments/assets/8ba2afc6-c10b-4a95-9a34-44a0906b2211" />
 
+## Added menu in the User's portal in the menu section
 <img width="757" height="612" alt="image" src="https://github.com/user-attachments/assets/61c75b85-39db-4d1f-9d02-46d600495cdb" />
+
+## 
 <img width="1872" height="452" alt="image" src="https://github.com/user-attachments/assets/980e3665-e8fb-41dc-9c2a-d0a76d257c20" />
 <img width="623" height="837" alt="image" src="https://github.com/user-attachments/assets/2742a470-13b9-4280-8593-493674e8d2c0" />
 <img width="1900" height="541" alt="image" src="https://github.com/user-attachments/assets/73c9d867-cd1a-41ec-9291-b03ac869ef4c" />
