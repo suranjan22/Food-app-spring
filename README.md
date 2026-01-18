@@ -23,7 +23,7 @@
 ## Add menu in Restaurant portal 
 <img width="1127" height="855" alt="image" src="https://github.com/user-attachments/assets/7063b9db-1885-40e2-a743-5921ba189984" />
 
-## added menu in menu table (MySQL Workbench)
+## Added menu in menu table (MySQL Workbench)
 <img width="997" height="173" alt="image" src="https://github.com/user-attachments/assets/8ba2afc6-c10b-4a95-9a34-44a0906b2211" />
 
 ## Added menu in the User's portal in the menu section
@@ -38,11 +38,19 @@
 ## Add to cart and Buy Menu item 
 <img width="1900" height="541" alt="image" src="https://github.com/user-attachments/assets/73c9d867-cd1a-41ec-9291-b03ac869ef4c" />
 
-## 
+## Message of orders  in the user portal
 <img width="730" height="525" alt="image" src="https://github.com/user-attachments/assets/3ef5354e-9eb6-4298-8392-03bcae9f22d3" />
+
+## Orders in the Restaurant portal 
 <img width="1911" height="445" alt="image" src="https://github.com/user-attachments/assets/fa3ff536-e9c3-401c-919a-1ee391cd1a91" />
+
+## Success message of the order if it is accepted by the restaurant
 <img width="592" height="527" alt="image" src="https://github.com/user-attachments/assets/05fadc96-cb52-47ed-8702-6485ca859f73" />
+
+## Contact form for users to tell about their orders 
 <img width="1232" height="802" alt="image" src="https://github.com/user-attachments/assets/62bac19b-525e-4b02-999d-b3f98f5ecd84" />
+
+## Success massage it the massage deliverd successfully
 <img width="660" height="273" alt="image" src="https://github.com/user-attachments/assets/688bc814-bd96-4ff6-9f72-a5c8475615cf" />
 
 ## Mail in Gmail account 
